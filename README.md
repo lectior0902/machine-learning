@@ -745,6 +745,8 @@ Video 강좌는 제가 개인적으로 생각하는 순차적 학습 단계 입�
   - 논문 저장소. 인공지능, 프로그래밍 등 거의 모든 논문을 찾아볼 수 있다.
 * [arXiv sanity](https://arxiv.org/)
   - 일정 기간동안 원하는 주제에 대한 인기 있는 arXiv 논문을 볼 수 있다.
+* [Hugging Face - Daily Papers](https://huggingface.co/papers)
+  - 매일 업데이트되는 최신 AI/ML 논문 큐레이션. 매일/주간/월간 트렌드, 주제 태그, 요약, 코드/데이터 링크 제공
 * [PyTorch 입문코스 5개](https://docs.microsoft.com/en-us/learn/browse/?terms=pytorch)
   - 마이크로소프트 Learn. 파이토치 기초, 파이토치를 사용한 이미지/자연어/오디오
 * [PyTorch 튜토리얼 (한글)](https://tutorials.pytorch.kr/)
