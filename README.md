@@ -1,5 +1,7 @@
 # Machine Learning Study 혼자 해보기
 
+# 안녕하세요
+
 <div align="center">
 
 ![GitHub contributors](https://img.shields.io/github/contributors/teddylee777/machine-learning)
